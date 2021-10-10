@@ -1,0 +1,17 @@
+li a {
+    color: white;
+    text-decoration: none;
+  }
+li {
+    margin-left: 25px;
+    padding: 7px 15px;
+    border-radius: 4px;
+    transition: 0.7s;
+  }
+li:hover {
+    background: lightgray;
+    color: black;
+  }
+a {
+    color: white;
+  }

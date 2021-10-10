@@ -1,0 +1,17 @@
+
+.cart{
+    margin-top: 40px;
+    box-shadow: 3px 3px 8px gray;
+    border-radius:5px;
+}
+.main-div{
+    margin-top: 58px;
+   
+}
+.input-filed{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87);
+    line-height: 30px;
+    padding: 5px;
+    position: relative;
+}
